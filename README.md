@@ -51,6 +51,22 @@ This project presents a **Power BI dashboard** designed to visualize and analyze
   - `productview.png` – Product-level detail view  
   - `tooltip.png` – Monthly unit tooltip visual
 
+
+## 🖼️ Dashboard Preview
+
+### Overview Page
+![Overview](overview.png)
+
+### Products Page
+![Products](products.png)
+
+### Product View Page
+![Product View](productview.png)
+
+### Tooltip
+![Tooltip](tooltip.png)
+
+
 ## 🚀 Getting Started
 
 1. Open the `sellit.pbix` file using **Power BI Desktop**.  
