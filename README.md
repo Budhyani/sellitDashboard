@@ -44,8 +44,12 @@ This project presents a **Power BI dashboard** designed to visualize and analyze
 ## 📁 File Contents
 
 - `sellit.pbix`: Power BI dashboard file  
-- `overview.png, products.png, productview.png, tooltip.png`: Sample images of dashboard
 - `README.md`: Project documentation (this file)
+-  Dashboard screenshots for visual reference:
+  - `overview.png` – Overview page of the dashboard  
+  - `products.png` – Products performance analysis  
+  - `productview.png` – Product-level detail view  
+  - `tooltip.png` – Monthly unit tooltip visual
 
 ## 🚀 Getting Started
 
